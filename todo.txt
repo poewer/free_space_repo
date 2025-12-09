@@ -1,0 +1,22 @@
+1. import tetchnologii do bps (jako raport)
+2. uzupełnianie wartości listy pozycji po danych z bps (technologie) dla elementów
+
+powtarzamy proces dla produktów tak jak wyżej
+
+ 943W66-510	943W66-510 ELEMENT I TŁUMIKA w/g rys.010599
+
+
+ w kolumnie E (ELEMENT I TŁUMIKA w/g rys.010599) jest też w kolumnie B (ELEMENT I TŁUMIKA w/g rys.010599)
+
+ od C do I kolumny znajdują się albo technologie albo surowce 
+
+
+ 914R23-930	453C10	CZOP I  RYS.012405 NIERDZ/Ex
+
+
+Produkt: jezelie jest w kolumnie A i niema go w kolumnie C i danych (element od kolumny C do I)
+Element: patrzymy na kolunę C lub D w zależności od uwagi i szukamy w kolumnie A (surowiec od kolumny C do I)
+surowce/technologia: występują wyłacznie w kolumnie C i D
+
+
+
